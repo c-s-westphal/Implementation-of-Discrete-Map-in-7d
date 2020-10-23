@@ -1,10 +1,10 @@
-# Implementation-of-Discrete-Map-in-7d
-import statistics as stat
-import scipy.stats as sci
-import numpy as np
-import matplotlib.pyplot as plt
-from matplotlib import cm
-import math
+  # Implementation-of-Discrete-Map-in-7d
+  import statistics as stat
+  import scipy.stats as sci
+  import numpy as np
+  import matplotlib.pyplot as plt
+  from matplotlib import cm
+   import math
 import scipy
 import itertools as itr
 from mpl_toolkits.mplot3d import Axes3D
